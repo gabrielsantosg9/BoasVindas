@@ -1,37 +1,3 @@
-<h1 align="center">Glassmorphism - Business Card</h1>
-
-[![Linkedin Badge](https://img.shields.io/badge/-MorenaNobre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morenanobre/)](https://www.linkedin.com/in/morenanobre/)
-[![Gmail Badge](https://img.shields.io/badge/-morenagnobre@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:morenagnobre@gmail.com)](mailto:morenagnobre@gmail.com)
-
-<blockquote align="center">“A chave para transformação é a continuidade. Continue a codar!!!”</blockquote>
-
-<br>
-
-<p align="center">Deploy <a href="https://glass-business-card.netlify.app/" target="_blank">aqui!</a></p>
-
-<br>
-
-<hr>
-
-<br>
-<br>
-
-## Sumário
-
-- [Apresentação da Aplicação](#-apresentação-da-aplicação)
-- [Sobre a Aplicação](#-sobre-a-aplicação)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Ideias para Implementar](#-ideias-para-implementar)
-
-<br>
-
-## Apresentação da Aplicação
-
-<br>
-<div align="center">
-  <img alt="glass-business-card" src="img/glass-business-card.gif" width="100%">
-</div>
-<br>
 
 ## Sobre a Aplicação
 
